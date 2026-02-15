@@ -199,13 +199,9 @@ If failure occurs:
   Phase                         Log File
   ----------------------------- -----------------------------------------------------------------------
   Pre‑Upgrade                   /var/log/leapp/leapp-preupgrade.log
-
   OS Migration                  /var/log/leapp/leapp-upgrade.log
-
   7.6.5 Upgrade                 /var/log/cyops/upgrade-fortisoar-7.6.5-`<timestamp>`{=html}.log
-
-  Elevate Framework             /var/log/cyops/fsr-elevate/fsr-elevate-7.6.5-`<timestamp>`{=html}.log
-  -----------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------
 
